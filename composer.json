@@ -5,7 +5,7 @@
   "license": "MIT",
   "require": {
     "silex/silex": "~2.0@dev",
-    "symfony/translation": "~2.4"
+    "symfony/translation": "~3.4"
   },
   "autoload": {
     "psr-0": { "Jenyak\\I18nRouting": "src" }
